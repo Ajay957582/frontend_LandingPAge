@@ -88,28 +88,8 @@ Contact Form Details:
 
 Admin can view all the submitted contact forms.
 Data Fetch: Contact form responses are fetched from /api/admin/dashboard.
-Newsletter Subscribers:
-
-Admin can view all subscribed email addresses.
-Data Fetch: Subscriber data is fetched from /api/subscribers.
-
-
-## **Backend API Endpoints:**
-
-GET /api/projects: Fetches all projects.
-GET /api/clients: Fetches all clients.
-POST /api/contact: Submits contact form data.
-POST /api/newsletter: Subscribes a user to the newsletter.
-Admin Routes:
-GET /api/admin/projects: Fetches all projects for the admin panel.
-POST /api/admin/projects: Adds a new project (used for project management in the admin panel).
-GET /api/admin/clients: Fetches all clients for the admin panel.
-POST /api/admin/clients: Adds a new client (used for client management in the admin panel).
-GET /api/admin/contact: Fetches all contact form submissions.
-GET /api/admin/newsletter: Fetches all newsletter subscribers.
 
 ## **Contact Information**
-
 - **Name**: Ajay More
 - **Email**: [ajaymore123.indore@gmail.com](mailto\:ajaymore123.indore@gmail.com)
 
