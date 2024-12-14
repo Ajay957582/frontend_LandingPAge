@@ -74,19 +74,19 @@ The admin panel allows for managing the projects, clients, and user data. It inc
 Project Management:
 
 Admin can add new projects by entering details like project image, name, and description.
-Data Fetch: Projects are fetched from /api/admin/projects.
+Data Fetch: Projects are fetched from /api/admin/dashboard.
 Client Management:
 
 Admin can add and manage clients’ data, including name, image, designation, and description.
-Data Fetch: Clients are fetched from /api/admin/clients.
+Data Fetch: Clients are fetched from /api/admin/dashboard.
 Contact Form Details:
 
 Admin can view all the submitted contact forms.
-Data Fetch: Contact form responses are fetched from /api/admin/contact.
+Data Fetch: Contact form responses are fetched from /api/admin/dashboard.
 Newsletter Subscribers:
 
 Admin can view all subscribed email addresses.
-Data Fetch: Subscriber data is fetched from /api/admin/newsletter.
+Data Fetch: Subscriber data is fetched from /api/subscribers.
 
 
 ## **Backend API Endpoints:**
