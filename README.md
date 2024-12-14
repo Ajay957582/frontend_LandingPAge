@@ -10,6 +10,10 @@ for frontend:
 https://github.com/Ajay957582/frontend_LandingPAge/tree/master.
 
 
+for backend:
+https://github.com/Ajay957582/backend_LandingPage/tree/master
+
+
 ## **Project Overview**
 
 This project is a prototype of a  **LandingPage**. The platform is built with a **React.js frontend** and a **Node.js backend** integrated with a **MongoDB database**.
